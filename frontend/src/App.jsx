@@ -7,7 +7,7 @@ import store from "../src/components/Redux/store";
 import Contact from "./components/Contact/Contact";
 import Capture from "./components/Capture/Capture";
 import { BrowserRouter, Routes, Route, useLocation } from "react-router-dom";
-import { useState } from "react";
+import { useState } from "react"; 
 import Favorites from "./components/Favorite/Favorite";
 import Chatbot from "./components/Chatbot/Chatbot";
 import { useSelector } from "react-redux";
